@@ -34,7 +34,7 @@ Les images de VM (`*.ova`, `*.iso`, `*.7z`, `*.vdi`, `*.vmdk`) sont exclues du d
 ## Avancement
 
 - [x] Images téléchargées
-- [ ] Vérification des checksums SHA256
+- [x] Vérification des checksums (SHA256 Ubuntu/Kali, SHA512 Wazuh), voir `CHECKSUMS.txt`
 - [ ] Déploiement de la VM Wazuh
 - [ ] Déploiement de l'endpoint Ubuntu + agent
 - [ ] Premières règles personnalisées

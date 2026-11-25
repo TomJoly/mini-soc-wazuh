@@ -1,0 +1,6 @@
+# Vérifiés le 2026-11-25 contre les checksums officiels (tous identiques)
+# Les images elles-mêmes ne sont pas versionnées (voir .gitignore).
+
+SHA256  97f3d7ffb032c3eb3b23d2c8be9cc76e60c2c1f2c0146ba5ba9fe01cafae0fd8  ubuntu-24.04.5-live-server-amd64.iso
+SHA256  84863c4fa46b2f1b29b152348583c6fb20f68f91971617c0d684e0eb163aab6d  kali-linux-2026.3-virtualbox-amd64.7z
+SHA512  407652ecb7505cb6cf91df076d1257f33038f6dfb6b867bcad491b109c26bedc2ebda880acda5ea1252d9b29b68e83b722ab64de41cbc7869807a3b87918b6c8  wazuh-4.14.11.ova
