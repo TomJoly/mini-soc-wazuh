@@ -1,4 +1,4 @@
-﻿# Images de VM : trop lourdes pour GitHub et inutiles dans le dépôt
+# Images de VM : trop lourdes pour GitHub et inutiles dans le dépôt
 *.ova
 *.iso
 *.7z
